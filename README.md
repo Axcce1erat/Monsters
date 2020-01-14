@@ -35,3 +35,9 @@ Allow the player to select a monster from a list and choose the opposing monster
 For example, you can add more types, as well as special attacks depending on the types of monsters.
 
 Any other idea for improving the game will be welcome, but only when everything else is already working!
+
+4. Bonus
+
+For example, you can add more types, as well as special attacks depending on the types of monsters.
+
+Any other idea for improving the game will be welcome, but only when everything else is already working!
